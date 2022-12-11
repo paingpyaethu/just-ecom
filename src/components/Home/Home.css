@@ -1,0 +1,52 @@
+.main-banner-content {
+    top: 15%;
+    left: 5%;
+  }
+  .main-banner-content h4 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 12px;
+    letter-spacing: 0.3;
+    text-transform: uppercase;
+    color: var(--color-red-100);
+  }
+  .main-banner-content h5 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-transform: none;
+  }
+  .main-banner-content p {
+    font-size: 13px;
+    line-height: 20px;
+    color: var(--color-dark);
+  }
+  .small-banner {
+    width: 50%;
+  }
+  .small-banner-content {
+    top: 15%;
+    left: 5%;
+  }
+  .small-banner-content h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0 0 12px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    color: var(--color-red-100);
+  }
+  .small-banner-content h5 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: none;
+  }
+  .small-banner-content p {
+    font-size: 13px;
+    line-height: 20px;
+    color: var(--color-dark);
+  }

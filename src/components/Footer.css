@@ -1,0 +1,14 @@
+/* Footer Part */
+footer {
+    background-color: var(--color-dark-100);
+  }
+  footer:not(:first-child){
+    border-top: 1px solid var(--color-gray)
+  }
+  
+  footer .input-group-text {
+    background-color: var(--color-dark-100);
+    color: #fff;
+    padding: 8px 17px;
+  }
+  /* Footer Part End */
